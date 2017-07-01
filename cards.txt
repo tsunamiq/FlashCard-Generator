@@ -1,0 +1,17 @@
+{"front":"i have ... fingers on my left hand.","back":"5"}
+{"front":"there are 4 ... on a car.","back":"wheels"}
+
+
+
+
+{"front":"... have one trunk.","back":"elephants"}
+{"front":"the largest planet in our solar system is ....","back":"jupiter"}
+{"front":"the smallest planet in our solar system is ....","back":"pluto"}
+{"front":"... is considered the red planet.","back":"mars"}
+{"front":"my ... is johnny.","back":"name"}
+{"front":"... civics are the best slowest cars in the world!","back":"honda"}
+{"front":"... is apple's greatest competitor.","back":"samsung"}
+{"front":"... break at the beach.","back":"waves"}
+{"front":"one ... is as awesome band!","back":"direction"}
+{"front":"... furious was a great car movie.","back":"fast and the"}
+{"front":"there a two ... on my body.","back":"legs"}
