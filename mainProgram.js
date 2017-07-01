@@ -75,7 +75,7 @@ var clozeGen = {
 			
 
 			newCardStorage.storeData();	
-			newTest = new clozeTest();
+			
 			clozeGen.init();
 		}else{
 			

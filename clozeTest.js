@@ -7,6 +7,7 @@
 			
 
 			this.clozeArray = fs.readFileSync("./cards.txt").toString().split('\n').filter(Boolean);
+			
 			this.count = 0;
 			this.countLength = this.clozeArray.length;
 			this.correct = 0;
